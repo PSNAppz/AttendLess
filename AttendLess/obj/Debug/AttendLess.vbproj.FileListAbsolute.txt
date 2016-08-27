@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\bin\Debug\AttendLess.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\bin\Debug\AttendLess.exe
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\bin\Debug\AttendLess.pdb
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\bin\Debug\AttendLess.xml
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\obj\Debug\AttendLess.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\obj\Debug\AttendLess.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\obj\Debug\AttendLess.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\obj\Debug\AttendLess.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\obj\Debug\AttendLess.exe
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\obj\Debug\AttendLess.xml
+c:\users\user\documents\visual studio 2015\Projects\AttendLess\AttendLess\obj\Debug\AttendLess.pdb
+C:\Users\user\Source\Repos\AttendLess\AttendLess\bin\Debug\AttendLess.exe.config
+C:\Users\user\Source\Repos\AttendLess\AttendLess\obj\Debug\AttendLess.exe
+C:\Users\user\Source\Repos\AttendLess\AttendLess\obj\Debug\AttendLess.xml
+C:\Users\user\Source\Repos\AttendLess\AttendLess\obj\Debug\AttendLess.pdb
